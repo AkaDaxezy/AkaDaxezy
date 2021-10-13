@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @AkaDaxezy
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 📫 How to reach me Daxezy#0001
-
-<!---
-AkaDaxezy/AkaDaxezy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Jestem Daxezy inaczej Jakub Gania
+Interesuje sie nudnym programwowaniem
+Aktualnie niczym sie nie uczę bo jestem leniwą kur^^
+Mój discord: Daxezy#0001 o ile nie zmienilem nazyw
